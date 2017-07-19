@@ -55,5 +55,5 @@ Notes:
 ## Links
 
 * [Roadmap](https://trello.com/b/GHzcBJvL/roadmap)
-* [Issues, suggestions and recommendations](https://github.com/errandjs/errand-example/issues)
+* [Issues, suggestions and recommendations](https://github.com/errandjs/errand/issues)
 * [@errandjs](https://twitter.com/errandjs)
