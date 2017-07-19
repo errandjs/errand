@@ -1,0 +1,26 @@
+{
+  "name": "errand",
+  "version": "0.1.1",
+  "description": "errand task automation producer",
+  "main": "lib/errand-producer.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "commander": "^2.11.0",
+    "jsonfile": "^3.0.1",
+    "kue": "^0.11.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/errandjs/errand.git"
+  },
+  "author": "mattcam",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/errandjs/errand/issues"
+  },
+  "homepage": "https://github.com/errandjs/errand#readme"
+}
