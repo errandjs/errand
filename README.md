@@ -52,3 +52,8 @@ Notes:
 * **tasks[].data.description** - optional task description
 * **tasks[].data.request** - required task payload
 
+## Links
+
+* [Roadmap](https://trello.com/b/GHzcBJvL/roadmap)
+* [Issues, suggestions and recommendations](https://github.com/errandjs/errand-example/issues)
+* [@errandjs](https://twitter.com/errandjs)
