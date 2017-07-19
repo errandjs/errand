@@ -1,7 +1,7 @@
 # errand
 > errand task automation producer
 
-Errand provides task automation. Errand uses a list of tasks to complete jobs. Work is performed by [errand components](https://www.npmjs.com/search?q=keywords:errand&page=1&ranking=optimal). The task list is used to configure 
+Errand provides task automation. Errand uses a list of tasks to complete jobs. Work is performed by [errand components](https://www.npmjs.com/search?q=keywords:errand&page=1&ranking=optimal). The [task list](https://github.com/errandjs/errand#example-task-list) is used to configure errand components.
 
 The objective is to create a useful set of components that can be used for digital marketing automation. Feel free to provide feedback and request new features in [issues](https://github.com/errandjs/errand-logger/issues).
 
@@ -22,7 +22,7 @@ Notes:
 
 ## Dependencies
 
-[redis]http://redis.io/
+[redis](http://redis.io/)
 
 
 ## Example Task List
