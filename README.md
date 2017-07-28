@@ -3,8 +3,6 @@
 
 Errand provides task automation. Errand uses a list of tasks to complete jobs. Work is performed by [errand components](https://www.npmjs.com/search?q=keywords:errand&page=1&ranking=optimal). The [task list](https://github.com/errandjs/errand#example-task-list) is used to configure errand components.
 
-The objective is to create a useful set of components that can be used for digital marketing automation. Feel free to provide feedback and request new features in [issues](https://github.com/errandjs/errand-logger/issues).
-
 ## Usage
 
 ```
@@ -62,3 +60,7 @@ Notes:
 * [Roadmap](https://trello.com/b/GHzcBJvL/roadmap)
 * [Issues, suggestions and recommendations](https://github.com/errandjs/errand/issues)
 * [@errandjs](https://twitter.com/errandjs)
+
+## How to contribute
+
+The objective of [errand](https://github.com/errandjs/errand) is to create a useful set of components that can be used for digital marketing automation. Feel free to provide feedback and request new features in [issues](https://github.com/errandjs/errand-logger/issues). 
