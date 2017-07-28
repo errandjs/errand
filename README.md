@@ -30,6 +30,9 @@ Notes:
 ```
 
 {
+	"queue": {
+		"execution":"replace-with-queue-task-execution-mode"
+	},
 	"tasks": [
 
 		{
@@ -47,6 +50,8 @@ Notes:
 
 Notes:
 
+* **queue** - queue options
+* **queue.execution** - required queue task execution mode, either `synchronous` where each task is processed sequentially or `asynchronous` where each task does not wait for previously submitted task(s)
 * **tasks** - required task list
 * **tasks[].task** - required task name
 * **tasks[].data.description** - optional task description
