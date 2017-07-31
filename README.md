@@ -16,6 +16,7 @@ Notes:
 
 1. Prior to running `errand-producer.js` required components must be running. Refer to [errand-example](https://github.com/errandjs/errand-example) for suggested strategy for how to deploy errand worker components using [pm2](http://pm2.keymetrics.io/).
 2. `--job` contains tasks list
+3. `--dir` contains file location of resources, setting required for components with file resources for example file location of email template files used by errand-message, directory location is passed without trailing slash
 
 
 ## Dependencies
