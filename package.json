@@ -1,13 +1,14 @@
 {
   "name": "errand",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "errand task automation producer",
   "main": "lib/errand-producer.js",
   "dependencies": {
     "async": "^2.5.0",
     "commander": "^2.11.0",
     "jsonfile": "^3.0.1",
-    "kue": "^0.11.6"
+    "kue": "^0.11.6",
+    "underscore": "^1.8.3"
   },
   "devDependencies": {},
   "scripts": {
